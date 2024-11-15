@@ -1,0 +1,9 @@
+.text {
+    column-count: 3;
+    column-gap:100px;
+    column-rule: 1px solid lightblue;
+  }
+
+.text-one {
+  column-width: 200px;
+}
